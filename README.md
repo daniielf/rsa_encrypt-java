@@ -1,2 +1,2 @@
-# rsa_encrypt-java
+RSA Encryption in JAVA
 RSA encryption example using JAVA
